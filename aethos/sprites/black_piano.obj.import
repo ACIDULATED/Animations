@@ -1,0 +1,21 @@
+[remap]
+
+importer="wavefront_obj"
+importer_version=1
+type="Mesh"
+uid="uid://dahcy7eq442xh"
+path="res://.godot/imported/black_piano.obj-7397c8d17ecf77025142412905dab95a.mesh"
+
+[deps]
+
+files=["res://.godot/imported/black_piano.obj-7397c8d17ecf77025142412905dab95a.mesh"]
+
+source_file="res://sprites/black_piano.obj"
+dest_files=["res://.godot/imported/black_piano.obj-7397c8d17ecf77025142412905dab95a.mesh", "res://.godot/imported/black_piano.obj-7397c8d17ecf77025142412905dab95a.mesh"]
+
+[params]
+
+generate_tangents=true
+scale_mesh=Vector3(1, 1, 1)
+offset_mesh=Vector3(0, 0, 0)
+optimize_mesh=true

@@ -1,0 +1,19 @@
+[remap]
+
+importer="mp3"
+type="AudioStreamMP3"
+uid="uid://c2wcwnhlhpveg"
+path="res://.godot/imported/SML Movie_ Jeffys Endless Aethos Remake! (mp3cut.net).mp3-19668c010908e13acafea130157671c3.mp3str"
+
+[deps]
+
+source_file="res://sprites/SML Movie_ Jeffys Endless Aethos Remake! (mp3cut.net).mp3"
+dest_files=["res://.godot/imported/SML Movie_ Jeffys Endless Aethos Remake! (mp3cut.net).mp3-19668c010908e13acafea130157671c3.mp3str"]
+
+[params]
+
+loop=false
+loop_offset=0
+bpm=0
+beat_count=0
+bar_beats=4

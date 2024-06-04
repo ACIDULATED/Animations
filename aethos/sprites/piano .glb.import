@@ -1,0 +1,51 @@
+[remap]
+
+importer="scene"
+importer_version=1
+type="PackedScene"
+uid="uid://u6njqlae4he8"
+path="res://.godot/imported/piano .glb-f67dc006715fbb602dddeb5bdcdabe59.scn"
+
+[deps]
+
+source_file="res://sprites/piano .glb"
+dest_files=["res://.godot/imported/piano .glb-f67dc006715fbb602dddeb5bdcdabe59.scn"]
+
+[params]
+
+nodes/root_type="Node3D"
+nodes/root_name="Scene Root"
+nodes/apply_root_scale=true
+nodes/root_scale=1.0
+meshes/ensure_tangents=true
+meshes/generate_lods=true
+meshes/create_shadow_meshes=true
+meshes/light_baking=1
+meshes/lightmap_texel_size=0.2
+skins/use_named_skins=true
+animation/import=true
+animation/fps=30
+animation/trimming=false
+animation/remove_immutable_tracks=true
+import_script/path=""
+_subresources={
+"materials": {
+"black keys": {
+"use_external/enabled": true,
+"use_external/path": "res://sprites/black.tres"
+},
+"metal": {
+"use_external/enabled": true,
+"use_external/path": "res://sprites/black.tres"
+},
+"white keys": {
+"use_external/enabled": true,
+"use_external/path": "res://sprites/white.tres"
+},
+"wood": {
+"use_external/enabled": true,
+"use_external/path": "res://sprites/black.tres"
+}
+}
+}
+gltf/embedded_image_handling=1

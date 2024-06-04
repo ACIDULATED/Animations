@@ -1,0 +1,8 @@
+[gd_resource type="StandardMaterial3D" format=3 uid="uid://cnktobh6lej2u"]
+
+[resource]
+resource_name = "white keys"
+cull_mode = 2
+vertex_color_use_as_albedo = true
+albedo_color = Color(0.972549, 0.972549, 0.964706, 1)
+roughness = 0.3
